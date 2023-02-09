@@ -11,3 +11,4 @@
 
 ### https://pabloandramirez.github.io/BarberiaAlura/index.html
 or
+### https://barberia-alura-two.vercel.app/
